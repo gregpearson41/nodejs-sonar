@@ -1,0 +1,6 @@
+projectKey=attendance-tracker
+serverUrl=http://192.168.5.83:9000
+serverVersion=25.7.0.110598
+dashboardUrl=http://192.168.5.83:9000/dashboard?id=attendance-tracker
+ceTaskId=eaf83d8b-fcd6-4810-b0e4-9faaa3291c79
+ceTaskUrl=http://192.168.5.83:9000/api/ce/task?id=eaf83d8b-fcd6-4810-b0e4-9faaa3291c79
